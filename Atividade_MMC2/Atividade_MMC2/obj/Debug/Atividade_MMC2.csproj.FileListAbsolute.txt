@@ -1,0 +1,8 @@
+C:\Users\Voiidde\Desktop\Git_projects\Project_MMC2\Atividade_MMC2\Atividade_MMC2\bin\Debug\Atividade_MMC2.exe.config
+C:\Users\Voiidde\Desktop\Git_projects\Project_MMC2\Atividade_MMC2\Atividade_MMC2\bin\Debug\Atividade_MMC2.exe
+C:\Users\Voiidde\Desktop\Git_projects\Project_MMC2\Atividade_MMC2\Atividade_MMC2\bin\Debug\Atividade_MMC2.pdb
+C:\Users\Voiidde\Desktop\Git_projects\Project_MMC2\Atividade_MMC2\Atividade_MMC2\obj\Debug\Atividade_MMC2.csproj.AssemblyReference.cache
+C:\Users\Voiidde\Desktop\Git_projects\Project_MMC2\Atividade_MMC2\Atividade_MMC2\obj\Debug\Atividade_MMC2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Voiidde\Desktop\Git_projects\Project_MMC2\Atividade_MMC2\Atividade_MMC2\obj\Debug\Atividade_MMC2.csproj.CoreCompileInputs.cache
+C:\Users\Voiidde\Desktop\Git_projects\Project_MMC2\Atividade_MMC2\Atividade_MMC2\obj\Debug\Atividade_MMC2.exe
+C:\Users\Voiidde\Desktop\Git_projects\Project_MMC2\Atividade_MMC2\Atividade_MMC2\obj\Debug\Atividade_MMC2.pdb
